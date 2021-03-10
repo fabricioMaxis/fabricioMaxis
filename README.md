@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/static/v1?label=Blog&message=FabricioMaxis&color=7159c1&style=for-the-badge&logo=ghost"/>
+<img src="https://img.shields.io/static/v1?label=I'm&message=Fabricio-Maxis&color=7159c1&style=for-the-badge&logo=ghost"/>
 
 ### Hi there 👋
 
