@@ -19,7 +19,7 @@
   
 # <p>I have been using <img src="https://img.shields.io/static/v1?label=I'm&message=Fabricio-Maxis&color=1E90FF&style=for-the-badge&logo=react"/>React,
   <img src="https://img.shields.io/static/v1?label=I'm&message=Fabricio-Maxis&color=1E90FF&style=for-the-badge&logo=flutter"/>Flutter and 
-  <img src="https://img.shields.io/static/v1?label=I'm&message=Fabricio-Maxis&color=1E90FF&style=for-the-badge&logo=node"/>Nodejs to develop my studies<p/>
+  <img src="https://img.shields.io/static/v1?label=I'm&message=Fabricio-Maxis&color=1E90FF&style=for-the-badge&logo=node-js"/>Nodejs to develop my studies<p/>
 <p><p/>
 <p><p/>
 <p><p/>
