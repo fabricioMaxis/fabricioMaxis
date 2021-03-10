@@ -1,4 +1,3 @@
-#dooberry { background-color: red; }
 <div align="left"> 🚀 Welcome to my house </div>
 <p><p/>
 <p><p/>
@@ -14,8 +13,16 @@
   <br>
 
 
-### Hi there. What’s going on?  👋
-
+# Hi there. What’s going on?  👋
+<p><p/>
+<p><p/>
+<p><p/>
+<p><p/>
+<p>I have been using React, Nextjs and Node to develop my studies<p/>
+<p><p/>
+<p><p/>
+<p><p/>
+<p><p/>
 
 ![FabricioMaxis GitHub Stats](https://github-readme-stats.vercel.app/api?username=fabricioMaxis&show_icons=true)
 
