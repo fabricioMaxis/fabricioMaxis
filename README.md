@@ -17,9 +17,9 @@
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a> 
   <br>
   
-# <p>I have been using <img src="https://img.shields.io/static/v1?label=I'm&message=Fabricio-Maxis&color=1E90FF&style=for-the-badge&logo=react"/>React,
-  <img src="https://img.shields.io/static/v1?label=I'm&message=Fabricio-Maxis&color=1E90FF&style=for-the-badge&logo=flutter"/>Flutter and 
-  <img src="https://img.shields.io/static/v1?label=I'm&message=Fabricio-Maxis&color=1E90FF&style=for-the-badge&logo=node.js"/>Nodejs to develop my studies<p/>
+# <p>I have been using <img src="https://img.shields.io/static/v1?label=&message=React&color=1E90FF&style=for-the-badge&logo=react"/>,
+# <img src="https://img.shields.io/static/v1?label=&message=Flutter&color=1E90FF&style=for-the-badge&logo=flutter"/> and 
+# <img src="https://img.shields.io/static/v1?label=&message=Node.js&color=1E90FF&style=for-the-badge&logo=node.js"/> to develop my studies<p/>
 <p><p/>
 <p><p/>
 <p><p/>
