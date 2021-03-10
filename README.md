@@ -3,7 +3,7 @@
 <p><p/>
 <p><p/>
 <p><p/>
-<img src="https://img.shields.io/?logo=flutter=label=I'm&message=Fabricio-Maxis&color=1E90FF&style=for-the-badge&logo=ghost"/>
+<img src="https://img.shields.io/static/v1?logo=flutter=Fabricio-Maxis&color=1E90FF&style=for-the-badge&logo=ghost"/>
 <p><p/>
 <p><p/>
 <p><p/>
