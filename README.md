@@ -1,6 +1,8 @@
 <img src="https://img.shields.io/static/v1?label=I'm&message=Fabricio-Maxis&color=1E90FF&style=for-the-badge&logo=ghost"/>
 
-### Hi there 👋
+### Hi there. What’s going on?  👋
+
+- ⚡ Fun fact: ...
 
 <!--
 **fabricioMaxis/fabricioMaxis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
