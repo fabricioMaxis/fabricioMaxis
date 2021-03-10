@@ -9,7 +9,7 @@
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-- ⚡ Fun fact: ...
+
 
 ![FabricioMaxis GitHub Stats](https://github-readme-stats.vercel.app/api?username=fabricioMaxis&show_icons=true)
 
