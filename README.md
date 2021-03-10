@@ -1,4 +1,4 @@
-<div align="left"> 🚀 Welcome to my house </div>
+# Hi there. What’s going on?  👋
 <p><p/>
 <p><p/>
 <p><p/>
@@ -8,17 +8,19 @@
 <p><p/>
 <p><p/>
 <p><p/>
+<div align="left"> 🚀 Welcome to my house </div>
+<p><p/>
+<p><p/>
+<p><p/>
+<p><p/>
 <a target="_blank" href="https://www.linkedin.com/in/fabriciomaxis0913/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a> 
   <br>
 
 
-# Hi there. What’s going on?  👋
-<p><p/>
-<p><p/>
-<p><p/>
-<p><p/>
-<p>I have been using React, Nextjs and Node to develop my studies<p/>
+
+
+# <p>I have been using React, Nextjs and Node to develop my studies<p/>
 <p><p/>
 <p><p/>
 <p><p/>
