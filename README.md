@@ -17,7 +17,7 @@
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a> 
   <br>
   
-# <p>I have been using React, Nextjs and Node to develop my studies<p/>
+# <p>I have been using React, Fluter and <img src="https://simpleicons.org/icons/node-dot-js.svg"/>Node to develop my studies<p/>
 <p><p/>
 <p><p/>
 <p><p/>
