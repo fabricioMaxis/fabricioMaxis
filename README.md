@@ -17,7 +17,7 @@
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a> 
   <br>
 <img src="https://simpleicons.org/icons/node-dot-js.svg?label=I'm&message=Fabricio-Maxis&color=1E90FF&style=for-the-badge&logo=ghost"/>  
-<p>I have been using React, Fluter and <img src=""/>Node to develop my studies<p/>
+<p>I have been using React, Fluter and Node to develop my studies<p/>
 <p><p/>
 <p><p/>
 <p><p/>
