@@ -26,6 +26,8 @@
 ![FabricioMaxis GitHub Stats](https://github-readme-stats.vercel.app/api?username=fabricioMaxis&show_icons=true)
 
 
+[![](http://flutter-badge.zaynjarvis.com/score/flutter_signin_button)](https://pub.dartlang.org/packages/flutter_signin_button)
+
 <!--
 **fabricioMaxis/fabricioMaxis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
