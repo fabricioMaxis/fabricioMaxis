@@ -17,7 +17,7 @@
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a> 
   <br>
   
-# <p>I have been using <img src="https://img.shields.io/static/v1?label=&message=React&color=000000&style=for-the-badge&logo=react"/>,<img src="https://img.shields.io/static/v1?label=&message=Flutter&color=000000&style=for-the-badge&logo=flutter"/> and <img src="https://img.shields.io/static/v1?label=&message=Node.js&color=000000&style=for-the-badge&logo=node.js"/> to develop my studies<p/>
+
 <p><p/>
 <p><p/>
 <p><p/>
